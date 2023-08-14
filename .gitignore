@@ -1,7 +1,17 @@
 # Compiled class file
 *.class
 
+# Ignore all in IDEA configuration folder
+.idea/
+*.iml
+
+# Ignore all in project output folder
+out/
+target/
+
 # Log file
+logs/
+logs_test/
 *.log
 
 # BlueJ files
